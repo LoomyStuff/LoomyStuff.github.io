@@ -18,11 +18,11 @@
 		"friction": 0.2,
 		"restitution": 0.2,
 		"shapes": [[
-			[1.02, 0.90]
+			[1.02, 0.85]
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
-		"imageOffset": [-0.4, -0.2]
+		"imageOffset": [-0.38, 0.1]
 	}]
 }
 }
