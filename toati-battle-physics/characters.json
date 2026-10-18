@@ -2,14 +2,14 @@
 "toati1": {
 	"bodies": [{
 		"density": 7,
-		"friction": 0.4,
-		"restitution": 0.3,
+		"friction": 0.2,
+		"restitution": 0.2,
 		"shapes": [[
 			[1.03, 0.95]
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
-		"imageOffset": [0, 0]
+		"imageOffset": [-0.3, 0]
 	}]
 }
 }
