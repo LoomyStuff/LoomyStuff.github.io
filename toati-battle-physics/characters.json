@@ -11,5 +11,18 @@
 		"mirrorY": true,
 		"imageOffset": [-0.4, -0.2]
 	}]
+},
+"toati3": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.90]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.4, -0.2]
+	}]
 }
 }
