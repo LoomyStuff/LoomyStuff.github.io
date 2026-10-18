@@ -5,7 +5,7 @@
 		"friction": 0.2,
 		"restitution": 0.2,
 		"shapes": [[
-			[0.95, 0.90]
+			[0.97, 0.90]
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
