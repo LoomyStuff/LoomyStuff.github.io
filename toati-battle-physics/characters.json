@@ -63,5 +63,70 @@
 		"mirrorY": true,
 		"imageOffset": [-0.375, 0]
 	}]
+},
+"toati6": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.58]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.375, 0]
+	}]
+},
+"toati7": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.58]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.375, 0]
+	}]
+},
+"toati8": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.58]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.375, 0]
+	}]
+},
+"toati9": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.58]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.375, 0]
+	}]
+},
+"toati10": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.58]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.375, 0]
+	}]
 }
 }
