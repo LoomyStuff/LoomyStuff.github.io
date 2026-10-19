@@ -35,7 +35,20 @@
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
-		"imageOffset": [-0.38, 0.1]
+		"imageOffset": [-0.378, 0.1]
+	}]
+},
+"toati4": {
+	"bodies": [{
+		"density": 7,
+		"friction": 0.2,
+		"restitution": 0.2,
+		"shapes": [[
+			[1.02, 0.85]
+		]],
+		"mirrorX": true,
+		"mirrorY": true,
+		"imageOffset": [-0.378, 0.1]
 	}]
 },
 "toati5": {
@@ -48,7 +61,7 @@
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
-		"imageOffset": [-0.37, 0]
+		"imageOffset": [-0.375, 0]
 	}]
 }
 }
