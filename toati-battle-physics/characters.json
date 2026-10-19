@@ -5,7 +5,7 @@
 		"friction": 0.2,
 		"restitution": 0.2,
 		"shapes": [[
-			[1.02, 0.90]
+			[1.02, 0.88]
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
@@ -22,7 +22,7 @@
 		]],
 		"mirrorX": true,
 		"mirrorY": true,
-		"imageOffset": [-0.39, 0]
+		"imageOffset": [-0.40, 0]
 	}]
 },
 "toati3": {
